@@ -8,6 +8,9 @@
       <a href="/about" class="btn btn-ghost btn-sm rounded-btn">
         About
       </a>
+      <a href="/coffee-time" class="btn btn-ghost btn-sm rounded-btn">
+        Coffee Time
+      </a>
     </div>
   </div>
 </div>
